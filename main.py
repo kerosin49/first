@@ -1,5 +1,5 @@
 def main():
-    print("Overlord")
+    print("Penis 15sm")
 
 
 if __name__ == "__main__":
